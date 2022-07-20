@@ -1,0 +1,25 @@
+body {
+  background-color: yellowgreen;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+h3 {
+  color: blue;
+  text-transform: uppercase;
+}
+
+p {
+  color: brown;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
